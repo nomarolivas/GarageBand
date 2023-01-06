@@ -11,5 +11,4 @@ Web-Based application where a user can choose from a set of instruments and play
 <img width="1159" alt="Screenshot 2023-01-05 at 5 00 31 PM" src="https://user-images.githubusercontent.com/41343085/210909576-d06d22b4-8d02-4769-b807-d42b969565f9.png">
 
 ### Visualizer Example
-<img width="1272" alt="Screenshot 2023-01-05 at 4 56 18 PM" src="https://user-images.githubusercontent.com/41343085/210909668-315b0e72-e7aa-4de7-b1b8-d7cb3a976e24.png">
-
+![Screenshot 2023-01-05 at 5 15 10 PM](https://user-images.githubusercontent.com/41343085/210909861-29e486f4-1b5e-4d33-a74f-d77ab922cc43.png)
